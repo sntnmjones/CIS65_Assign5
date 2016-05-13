@@ -1,0 +1,19 @@
+Bob, you failed to name these magic words:
+
+fish
+hashtag
+programming
+rainbow
+rosebud
+tweet
+
+Troy, you failed to name these magic words:
+
+fish
+hashtag
+programming
+rainbow
+rosebud
+tweet
+
+Congratulations Mary! You named the correct magic words!
